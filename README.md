@@ -36,6 +36,12 @@ Ce bloc traite de l'industrialisation des modèles d'IA. Vous y trouverez des pr
 - L'automatisation des pipelines de données avec **Apache Airflow**.
 - Le monitoring et la maintenance des modèles en production.
 
+### 📂 **Bloc 6 - Direction de projets de gestion de données**
+Ce bloc se concentre sur la gestion de projets liés à la data. Les projets incluent :
+- La planification et la gestion de projets de gestion de données.
+- La coordination des équipes techniques et métier.
+- La mise en place de stratégies de gouvernance des données.
+
 ---
 
 ## Compétences acquises
