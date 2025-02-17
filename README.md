@@ -76,7 +76,7 @@ Ce bloc se concentre sur la gestion de projets liés à la data. Les projets inc
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter :
 - **Email** : frederic.mendes.semedo@gmail.com
-- **LinkedIn** : [Mon Profil LinkedIn](www.linkedin.com/in/frédéric-mendes-semedo)
+- **LinkedIn** : [Mon Profil LinkedIn](https://www.linkedin.com/in/frédéric-mendes-semedo/)
 
 ---
 
